@@ -1,3 +1,3 @@
-/**
- * Created by gumiz on 2015-05-07.
- */
+module.exports = {
+    'url' : 'mongodb://finlite:1@ds055689.mongolab.com:55689/finlite'
+};
